@@ -1,0 +1,31 @@
+﻿  MyCGView.cpp
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(163,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(166,15): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(170,6): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(171,6): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(673,12): warning C4101: “temp”: 未引用的局部变量
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1172,11): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1173,11): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1174,11): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1175,11): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,20): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,20): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,23): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,23): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,28): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,28): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,31): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,31): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,36): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,36): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,39): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,39): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,44): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,44): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,47): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1176,47): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1223,23): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1224,24): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1236,59): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\大二学习\计算机图形\MyCG\MyCGView.cpp(1237,60): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  MyCG.vcxproj -> E:\大二学习\计算机图形\MyCG\x64\Debug\MyCG.exe
